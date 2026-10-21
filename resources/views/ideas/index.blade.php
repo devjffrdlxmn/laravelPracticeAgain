@@ -13,6 +13,7 @@
   </ul>
 </div>
 @else
-<p>No Ideas yet? Create a new one.</p>
+<p>No Ideas yet?</p>
 @endif
+<p><a href="/ideas/create"> Create a new one.</a></p>
 </x-layout>
